@@ -2,7 +2,7 @@
 Let's create a production-ready Python Application based Dockerfile with best practices and I would be explaining every component in detail.
 
 ## Get Started
-1. **Base **
+1. **Base Image**
 - **Purpose**: Defines the foundation of our Docker image
 - **Why Python 3.9**: A stable Python version with good library support
 - **Why slim-buster**: A stripped-down Debian-based image that's much smaller than the standard Python image, reducing final image size
